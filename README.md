@@ -8,7 +8,7 @@ A basic voice assistant using python and various libraries
 - music player based on local directory with voice controls
 - get time and date
 - locking the computer
-- sending an email (only available when low security mode is turned on for email)
+- sending an email (only available when low security mode is turned on for email, enter email text in emailcontent.txt)
 - ChatGPT outputs
 #Setup
-create a directory for the project. Store main.py in it. make a subdirectory called mp3 and leave it empty. To run it start main.py
+create a directory for the project. Store main.py and emailcontent.txt (empty) in it. make a subdirectory called mp3 and leave it empty. To run it start main.py
