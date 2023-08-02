@@ -11,4 +11,4 @@ A basic voice assistant using python and various libraries
 - sending an email (only available when low security mode is turned on for email, enter email text in emailcontent.txt)
 - ChatGPT outputs
 #Setup
-create a directory for the project. Store main.py and emailcontent.txt (empty) in it. make a subdirectory called mp3 and leave it empty. To run it start main.py
+create a directory for the project. Store main.py and emailcontent.txt (empty) in it. make a subdirectory called mp3 and leave it empty. Enter your api key for openai in the openai key variable and set a directory to your music. To run it start main.py
