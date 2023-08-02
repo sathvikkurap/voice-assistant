@@ -69,7 +69,7 @@ def split_into_sentences(text: str) -> list[str]:
     if sentences and not sentences[-1]: sentences = sentences[:-1]
     return sentences
 
-openai.api_key = "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"
+openai.api_key = ""
 
 email = "awesomeandy9829@gmail.com"
 pwd = "Bitragunta@123"
